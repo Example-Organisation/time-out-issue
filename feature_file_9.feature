@@ -160,6 +160,9 @@ Feature: BCq6eOdI8sjjMeHOva5OuY6h
     When somehthign
     Then something
 
-  @ORPHAN
   Scenario: Trying to see error 
     Given trying to see error
+
+  @ORPHAN
+  Scenario: Test
+    Given isseu test
