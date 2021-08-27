@@ -184,6 +184,9 @@ Feature: BCq6eOdI8sjjMeHOva5OuY6h
   Scenario: Test
     Given something
 
-  @ORPHAN
   Scenario: Test
     Given something
+
+  @ORPHAN
+  Scenario: testing the flag issue
+    Given testing the flag issue
