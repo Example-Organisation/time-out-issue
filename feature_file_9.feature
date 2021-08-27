@@ -156,6 +156,10 @@ Feature: BCq6eOdI8sjjMeHOva5OuY6h
 
   @TOI-1 @OPEN
   Scenario: new scenario adding 
-    Given something 
-    When somehthign 
-    Then something 
+    Given something
+    When somehthign
+    Then something
+
+  @ORPHAN
+  Scenario: Trying to see error 
+    Given trying to see error
