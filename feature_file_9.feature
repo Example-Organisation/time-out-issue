@@ -178,6 +178,9 @@ Feature: BCq6eOdI8sjjMeHOva5OuY6h
   Scenario: Given test 456
     Given test
 
-  @ORPHAN
   Scenario: testing the issue 
+    Given something
+
+  @ORPHAN
+  Scenario: Test
     Given something
