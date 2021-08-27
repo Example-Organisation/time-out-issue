@@ -150,7 +150,12 @@ Feature: BCq6eOdI8sjjMeHOva5OuY6h
     And ROEUicgLEU0vEQSII3QhNiT2wM56DkWk9
     And r69B5zHZWGd9a7N3f84F21De2Z
 
-  @ORPHAN
   Scenario: testing the customer issue
     Given some context
-    When trying to new one 
+    When trying to new one
+
+  @TOI-1 @OPEN
+  Scenario: new scenario adding 
+    Given something 
+    When somehthign 
+    Then something 
