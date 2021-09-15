@@ -31,7 +31,6 @@ Feature: Feature
     And wbTslEqBRNcZ1dxhyiNJa0HydrW
     And f58pE0ZXI4AMEubYeZo4y30r8gHub
 
-  @ORPHAN
   Scenario: Copy of RbQvC0bJIfKHThu9dq9R2U3W
     Given powNA0qA5uRLEbxlhRLDavYDy28ISH
     And qoF3Z33qBs2XtYjbiHuLWXy4zu
@@ -47,3 +46,7 @@ Feature: Feature
     And XxlVhSFr6Vc1hMtlV3swRUS9eB
     And DXYXneOn8lycBeSmooD7ynLpZx
     And 75ZsNvTCh7l6QlY1wkGSnSBO
+
+  @ORPHAN
+  Scenario: Test 
+    Given test
