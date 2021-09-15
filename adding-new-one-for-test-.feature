@@ -3,9 +3,6 @@ Feature: adding new one for test
   Background:
     Given is a background
 
-  Scenario: Test 
-    Given test
-
   @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L
   Scenario: Copy of SXi45dSnDSlL0WHhiTdU5R6JNQsDQ6IJ
     Given 8X1HpgSrg9ILGd56CseF30qOqxerUG
@@ -87,7 +84,6 @@ Feature: adding new one for test
     And qQUGiUyRLZuRN80SJu4PW
     And tZcvmouiTCA2a7fX9ae70bIRaUxN
 
-  @ORPHAN
   Scenario: RbQvC0bJIfKHThu9dq9R2U3W
     Given powNA0qA5uRLEbxlhRLDavYDy28ISH
     And qoF3Z33qBs2XtYjbiHuLWXy4zu
