@@ -20,22 +20,6 @@ Feature: adding new one for test
     And StEdNVQeGz8x0WOjKWBEcS9d
 
   @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L
-  Scenario: Copy of SXi45dSnDSlL0WHhiTdU5R6JNQsDQ6IJ
-    Given 8X1HpgSrg9ILGd56CseF30qOqxerUG
-    And ZMTJWHLLk0fbw5J7U82YyQtnrmv
-    And M6YEV7VyXAU89825M57lwZF
-    And m4EUNuwZDgNCjzGHVEaWToYL
-    And kWsebyaY0SpA2C2AMLDgKCQm
-    When lVqeiqAfrVWTDd5i2koTQSrJvN5f
-    And P7FjGPqhA7LrjHqU67V356E9S
-    And e1aujhi3N37bWm1ImoPzLi
-    And cUDoxGHR6zbNfluky1gngpfkDq
-    And aLKGHPp9DWz6olmxAmRQpr4pl6j
-    Then gh6xrOAsrWIhr9txbpZ4FsVU
-    And XFZIaF9aGF9pMeGtvLOUx
-    And StEdNVQeGz8x0WOjKWBEcS9d
-
-  @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L
   Scenario: SXi45dSnDSlL0WHhiTdU5R6JNQsDQ6IJ
     Given 8X1HpgSrg9ILGd56CseF30qOqxerUG
     And ZMTJWHLLk0fbw5J7U82YyQtnrmv
@@ -128,7 +112,6 @@ Feature: adding new one for test
     And Sv5D0nMWfjdiSSjDAmF9iR4C
     And pRNcK25umU3JZO22Pp2fhfn7Mn
 
-  @ORPHAN
   Scenario: iXlAniAQY4JnT3xCBU6EO1dFAK7h
     Given L5kjwGPCU81za2vHUAaIllL2yVQ
     And neDgBbLueefL0n0LRn0DReJjV3iTSbHD
