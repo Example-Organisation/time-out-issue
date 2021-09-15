@@ -21,7 +21,7 @@ Feature: feature file
     And qQUGiUyRLZuRN80SJu4PW
     And tZcvmouiTCA2a7fX9ae70bIRaUxN
 
-  @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L @ORPHAN
+  @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L
   Scenario: Copy of Copy of SXi45dSnDSlL0WHhiTdU5R6JNQsDQ6IJ
     Given 8X1HpgSrg9ILGd56CseF30qOqxerUG
     And ZMTJWHLLk0fbw5J7U82YyQtnrmv
@@ -36,3 +36,19 @@ Feature: feature file
     Then gh6xrOAsrWIhr9txbpZ4FsVU
     And XFZIaF9aGF9pMeGtvLOUx
     And StEdNVQeGz8x0WOjKWBEcS9d
+
+  @ORPHAN
+  Scenario: Copy of PlLN90EC67jI44duuEcOqBYR
+    Given aHOgcA4kagdZhihJDr8TC06
+    And l67Qih8TaWYLzfLHhBfv3uINM
+    And 0sxbWLQLa6kGX4REYpWnky
+    And VAIVg1bF8WXmkW9HShxkbCy
+    And PKFFYgYXu8Z3ZaxisgVBe1uaz
+    When f9h4tL2TJiGJwxVMd3tnUK95y
+    And cQXgWi6j7Qgs6QYU5zynCtUNb8qWz
+    And yLwVEzrS58sbuiGrvuMfSXD2wpO
+    And Rj7QolF8fcaMUgh7tddzSw2tBCz
+    And PtfUOsYg8VVXHJgeOZcIcj0kBpH
+    Then AncyLoUvzVaDyXtlkciZ0WU1L
+    And wbTslEqBRNcZ1dxhyiNJa0HydrW
+    And f58pE0ZXI4AMEubYeZo4y30r8gHub
