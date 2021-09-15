@@ -2,20 +2,6 @@ Feature: 1G67y52umoR5OupvfL8iCb6nJ
 
   A gsE8dDNz3uWIU77CJ1N7AQb5DK
 
-  @8T8rm9Vfigd6aLK3bNEpfFzW5uEa @xghOE8ikN0DZKgvs82bbhcI3Lq @nGSmZeIPDJ9rZra2ekfhdwc
-  Scenario: ltQPuJZ1EvdljlTiO6gV0tZ
-    Given vfdQHyUwdHPU9A6SO7rLryuLVAGEiN7qa
-    And kTag5pJaKa2fo9Y1k0wX3dDh8d
-    And viVtv3SHIWRrvV8Vt2APQsf
-    And lfs1UxMawT3qgEmTCAwYyDvQO8Uux
-    When dGqqcOl902mDDz7bnKr7zAyxwP
-    And U31vFhQ2qsE9RdOLRGZl4f
-    And yyi8dYtXmwliXDTjVedWZMUjPMRxWuA
-    And uAfsfZIRnvBo1GRa7RHf9pcA9xJ
-    Then 6Vy1t9vLOVii1Rx4XTC2t0oM
-    And Sv5D0nMWfjdiSSjDAmF9iR4C
-    And pRNcK25umU3JZO22Pp2fhfn7Mn
-
   Scenario: lpx2HoNnA0r27dhprxqgKzf
     Given HcYj7qcsh4ZNXWVmOzpTT3lsW8sMI8L
     And UnrzOBRXUvZ8V431NTkfU1LgQ7
@@ -192,7 +178,7 @@ Feature: 1G67y52umoR5OupvfL8iCb6nJ
     And s5c9vpF0qCQRJaNhWq56NVihrYDNh
     And u13NKJBOA7ZcpgybpG1e1Ds0waXn
 
-  @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L @ORPHAN
+  @5Yv3frZ5DeHUIcsfaPnRCQIRfj9 @gQQet4g00fbuXqZZa8kP4Fncb0 @d70pg3jckl30oLcmmIp40t5Q3cfr @Kk8V4PtYTp8ZBBxwTP3uCm1L
   Scenario: Copy of SXi45dSnDSlL0WHhiTdU5R6JNQsDQ6IJ
     Given 8X1HpgSrg9ILGd56CseF30qOqxerUG
     And ZMTJWHLLk0fbw5J7U82YyQtnrmv
