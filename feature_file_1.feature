@@ -2,7 +2,7 @@ Feature: Update the feature file name
 
   A qMk1NSGMsSHp2m7CSD8SBC1gIOYz3
 
-  Scenario: bMvypS82l1zCsfuIip5oIjFGoqR
+  Scenario: Why this didn't changed?
     Given qy3eQV4L6N29KfYE4pBGm
     And xen55wo9Gq0DeRNbdr2qZxK8K3MBp
     And eExBVkp9DTmwNTI5HKo31jnqOIe
@@ -229,7 +229,7 @@ Feature: Update the feature file name
     And H0p5eQnTSH9xvwoKbLO21jHGnw3lI
     And JNQPVdfUTi3wceGohHg4kIQ7
 
-  @RDYa1cFvqs8zqTCBgmrBMjyY99LgDS @bqrWBkimfEGsru2HfvBUzLbGjqX @ORPHAN
+  @RDYa1cFvqs8zqTCBgmrBMjyY99LgDS @bqrWBkimfEGsru2HfvBUzLbGjqX
   Scenario: Copy of Update on sceanrio for duplication test
     Given zh13q4FATtkO2322HkadrIV9gsw
     And KUDIN3I1jehgOqaZ3RwOPlHUs
