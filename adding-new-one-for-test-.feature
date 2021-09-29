@@ -127,7 +127,7 @@ Feature: adding new one for test
     And HkQWe6FmtDba5UJ1Bnpy1ciQOLp
     And fDLFaNsiNLrmfW02a32Oixarf
 
-  @ORPHAN
+  @XT29-1 @OPEN
   Scenario: Why this didn't changed?
     Given qy3eQV4L6N29KfYE4pBGm
     And xen55wo9Gq0DeRNbdr2qZxK8K3MBp
