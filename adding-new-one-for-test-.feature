@@ -1,5 +1,7 @@
 Feature: adding new one for test 
 
+  Added some description
+
   Background:
     Given is a background
 
