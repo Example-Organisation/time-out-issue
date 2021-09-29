@@ -2,7 +2,7 @@ Feature: Update the feature file name
 
   A qMk1NSGMsSHp2m7CSD8SBC1gIOYz3
 
-  Scenario: B6ahyWSXOkSrLJtwNinXI0
+  Scenario: Test for duplication
     Given 4928voG8xZK3q2JZiqUHoV
     And jj2WwuHKVvNss84qlNKAUtD0k3m
     And JvCSyUWpArTwi1NQWjvYQp9GQROb
