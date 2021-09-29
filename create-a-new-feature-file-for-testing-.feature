@@ -2,3 +2,7 @@
 Feature: Create a new feature file for testing 
 
   Update a feature for testing
+
+  Background:
+    Add back ground asswell
+    
