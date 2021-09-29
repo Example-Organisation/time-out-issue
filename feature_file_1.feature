@@ -2,22 +2,6 @@ Feature: Update the feature file name
 
   A qMk1NSGMsSHp2m7CSD8SBC1gIOYz3
 
-  Scenario: Why this didn't changed?
-    Given qy3eQV4L6N29KfYE4pBGm
-    And xen55wo9Gq0DeRNbdr2qZxK8K3MBp
-    And eExBVkp9DTmwNTI5HKo31jnqOIe
-    And 4zL93NQIpN3r6bl2Y0Oql8V2CXaRyNdB0
-    When Q2n72xZGs5kpvJQPOXrnzsSCQJUAZ
-    And HAbqe0ti4z9XfoHNybKSrHWM
-    And TzmztD0sfUZmgOlFXtSfZXs4yY
-    And rxI5cVdVQyubvgRRr1NjWIL
-    And tHjlPOb6emoRpwTMn0MhxVvCDKpnTjS11Tjb
-    Then sk5vcb55bmCLFCL2RJvo5KeSjrG4
-    And UNFN03GSHDxlK9Cot9MXZWZ
-    And skV6MiEIkhEIx7b3lCMm6DD
-    And zpM0LZY3y8q6cSZ5zrjLLKKV
-    And CULmc5vFCQJomdTVvVkJp change on a scenrio
-
   Scenario: B6ahyWSXOkSrLJtwNinXI0
     Given 4928voG8xZK3q2JZiqUHoV
     And jj2WwuHKVvNss84qlNKAUtD0k3m
