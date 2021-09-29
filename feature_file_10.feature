@@ -1,6 +1,7 @@
 Feature: Feature name update 
 
-  A cNq3ISyoOWiitFJN7y1Yp9WFcpXrOV8cOc
+  And descrption update too
+  
 
   @47AEQ2EKRuL1Q8kcmGOi3vfuxJZzAtui1 @wgZRlSnYlmYsGhZlf4MLLU3QJ
   Scenario: DL17DkP0qTYOsVJvbnRpGntbF7O4s
