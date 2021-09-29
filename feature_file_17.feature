@@ -3,7 +3,7 @@ Feature: Updating name
 
   Updateing desciption
 
-  Scenario: PlLN90EC67jI44duuEcOqBYR
+  Scenario: Edit scenario aswell
     Given 1Zse7D5DyIuNX4r4kJArKIeowH6C
     And 7JsMcjUqf56HczkWmu4BII2kEIZ1k
     And M4uqhaaDIBgyoq2sDbwcle6ddC
