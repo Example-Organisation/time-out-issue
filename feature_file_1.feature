@@ -3,7 +3,7 @@ Feature: Update the feature file name
   A qMk1NSGMsSHp2m7CSD8SBC1gIOYz3
 
   @XT29-3 @OPEN
-  Scenario: Test for duplication
+  Scenario: Test for duplication name
     Given 4928voG8xZK3q2JZiqUHoVtest edit for duplication
     And jj2WwuHKVvNss84qlNKAUtD0k3m
     And JvCSyUWpArTwi1NQWjvYQp9GQROb
