@@ -132,15 +132,15 @@ Feature: adding new one for test
 
   @XT29-1 @OPEN
   Scenario: Why this didn't changed?
-    Given qy3eQV4L6N29KfYE4pBGm
-    And xen55wo9Gq0DeRNbdr2qZxK8K3MBp
-    And eExBVkp9DTmwNTI5HKo31jnqOIe
+    Given updateting the sceanrio on issue view
+    And lallaa
+    And hava ayaz mi ayaz
     And 4zL93NQIpN3r6bl2Y0Oql8V2CXaRyNdB0
     When Q2n72xZGs5kpvJQPOXrnzsSCQJUAZ
     And HAbqe0ti4z9XfoHNybKSrHWM
     And TzmztD0sfUZmgOlFXtSfZXs4yY
     And rxI5cVdVQyubvgRRr1NjWIL
-    And tHjlPOb6emoRpwTMn0MhxVvCDKpnTjS11Tjb
+    And tHjlPOb6emoRpwTMn0MhxVvCDKpnTjS
     Then sk5vcb55bmCLFCL2RJvo5KeSjrG4
     And UNFN03GSHDxlK9Cot9MXZWZ
     And skV6MiEIkhEIx7b3lCMm6DD
