@@ -4,8 +4,7 @@ Feature: Update the feature file name
 
   @XT29-3 @OPEN
   Scenario: Test for duplication
-    Given 4928voG8xZK3q2JZiqUHoVtest
-    
+    Given 4928voG8xZK3q2JZiqUHoVtest edit for duplication
     And jj2WwuHKVvNss84qlNKAUtD0k3m
     And JvCSyUWpArTwi1NQWjvYQp9GQROb
     When W5X3XMhyhW0rv9CQof8iQvm8dv86Rg
