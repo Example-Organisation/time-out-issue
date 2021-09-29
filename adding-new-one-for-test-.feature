@@ -1,3 +1,4 @@
+@add @some @tags
 Feature: adding new one for test 
 
   Added some description
