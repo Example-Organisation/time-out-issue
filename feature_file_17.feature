@@ -9,14 +9,7 @@ Feature: Updating name
     And M4uqhaaDIBgyoq2sDbwcle6ddC
     And C34VEHOw7oNCJqFtnrGEayKGg58
     And wctGxd1OdkNL0EimQ9IQgtyfj4wuug5C
-    When UeHM75CHBNdxgjZ0hykp3
-    And VRpguV3Tf7SOBpejBhVyDuD
-    And fLqRiVQmBjmH8yeJbBMg4Wj4
-    And kCRmdDSwBPqNlSoWM4JvYDSM
-    Then eDiUgbUPxqcO1bb7BsBw9cCaN
-    And wcrcBAU6XLP0eK2fGFAuIb
-    And YupcvpFXccM5X1QeGOoELKD
-    And wYjJi9wd9kPIC8DqMwKu7QXB26axp
+    When and steps edit too 
 
   Scenario: fIueqLtVKcRuxNwAVilAENSIY1e4n2
     Given aHOgcA4kagdZhihJDr8TC06
