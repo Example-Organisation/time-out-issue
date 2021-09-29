@@ -126,3 +126,20 @@ Feature: adding new one for test
     And xTFiK9IqxkpEqReti2cGNbVy
     And HkQWe6FmtDba5UJ1Bnpy1ciQOLp
     And fDLFaNsiNLrmfW02a32Oixarf
+
+  @ORPHAN
+  Scenario: Why this didn't changed?
+    Given qy3eQV4L6N29KfYE4pBGm
+    And xen55wo9Gq0DeRNbdr2qZxK8K3MBp
+    And eExBVkp9DTmwNTI5HKo31jnqOIe
+    And 4zL93NQIpN3r6bl2Y0Oql8V2CXaRyNdB0
+    When Q2n72xZGs5kpvJQPOXrnzsSCQJUAZ
+    And HAbqe0ti4z9XfoHNybKSrHWM
+    And TzmztD0sfUZmgOlFXtSfZXs4yY
+    And rxI5cVdVQyubvgRRr1NjWIL
+    And tHjlPOb6emoRpwTMn0MhxVvCDKpnTjS11Tjb
+    Then sk5vcb55bmCLFCL2RJvo5KeSjrG4
+    And UNFN03GSHDxlK9Cot9MXZWZ
+    And skV6MiEIkhEIx7b3lCMm6DD
+    And zpM0LZY3y8q6cSZ5zrjLLKKV
+    And CULmc5vFCQJomdTVvVkJp change on a scenrio
