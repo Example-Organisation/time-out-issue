@@ -228,3 +228,22 @@ Feature: Update the feature file name
     And 0zoyOWoasYuuEFfYUkDvXqACm6
     And H0p5eQnTSH9xvwoKbLO21jHGnw3lI
     And JNQPVdfUTi3wceGohHg4kIQ7
+
+  @RDYa1cFvqs8zqTCBgmrBMjyY99LgDS @bqrWBkimfEGsru2HfvBUzLbGjqX @ORPHAN
+  Scenario: Copy of Update on sceanrio for duplication test
+    Given zh13q4FATtkO2322HkadrIV9gsw
+    And KUDIN3I1jehgOqaZ3RwOPlHUs
+    And FldsDpsFr5eMqaWlRAkwER7
+    And rzIhXrzQU0hap9msKnqJiHgXo3
+    And v5SSwvYW9KNo3HdDX9naT91WWoLP8eqn
+    When DHM74fHNR9HXWkaWuzkh1UGYU
+    And iJZxZ03VzFafXFow99tNk18Jo
+    And TWv94Ix1aeUpblw09pn8SmNIxM
+    And n7oHjZJJjzEXRkhtw0UDQx
+    And wj8IouJAXmFhIFdxcrjYpxh
+    And EOUc9RtUdVzvF32N0anEkfnvggWD8
+    Then GZnRfczLfcjViSy3D6RQHo1Y6AN1mpb
+    And 9pjcEFYIg61kLVCw3KNuOoeG2
+    And s6fv5SOUpIqTlz2GWhKjZ46k1wbrd
+    And dLBOEXCZf1qw5PB8WMscaQy5xvM
+    And avtXIZDMtbrTVVtXmWYQ6A
