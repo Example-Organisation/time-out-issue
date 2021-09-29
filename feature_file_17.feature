@@ -1,7 +1,7 @@
+@and @tagg
 Feature: Updating name
 
   Updateing desciption
-  
 
   Scenario: PlLN90EC67jI44duuEcOqBYR
     Given 1Zse7D5DyIuNX4r4kJArKIeowH6C
