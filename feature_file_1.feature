@@ -16,7 +16,7 @@ Feature: Update the feature file name
     And CkWbCJNoeM6UjwaQjKTX4N30mHPgI
     And P0janFGGsKzkJryXWXfIspuyCLY
 
-  Scenario: apNCfcdLS3Kcy6bKRwULjTQT
+  Scenario: new test for duplicate
     Given eLHHMhYY4g0NFUMIrdVtcILmgz
     And 9K2jqW4Fdx6f89jHijZ8a
     And kURqWtGaH3Oh79VkZYKJOE8uQnaY
