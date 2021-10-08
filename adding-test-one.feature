@@ -1,1 +1,1 @@
-Feature: adding test one
+Feature: Change the feature file name
