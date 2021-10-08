@@ -2,6 +2,7 @@ Feature: 1G67y52umoR5OupvfL8iCb6nJ
 
   A gsE8dDNz3uWIU77CJ1N7AQb5DK
 
+  @QU8-1 @OPEN
   Scenario: lpx2HoNnA0r27dhprxqgKzf
     Given HcYj7qcsh4ZNXWVmOzpTT3lsW8sMI8L
     And UnrzOBRXUvZ8V431NTkfU1LgQ7
