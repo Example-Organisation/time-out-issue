@@ -11,6 +11,7 @@ Feature: Updating name
     And C34VEHOw7oNCJqFtnrGEayKGg58
     And wctGxd1OdkNL0EimQ9IQgtyfj4wuug5C
     When and steps edit too
+    Then make a change
 
   Scenario: fIueqLtVKcRuxNwAVilAENSIY1e4n2
     Given aHOgcA4kagdZhihJDr8TC06
