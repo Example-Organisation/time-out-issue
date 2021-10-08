@@ -3,13 +3,14 @@ Feature: Updating name
 
   Updateing desciption
 
+  @QU8-2 @OPEN
   Scenario: Edit scenario aswell
     Given 1Zse7D5DyIuNX4r4kJArKIeowH6C
     And 7JsMcjUqf56HczkWmu4BII2kEIZ1k
     And M4uqhaaDIBgyoq2sDbwcle6ddC
     And C34VEHOw7oNCJqFtnrGEayKGg58
     And wctGxd1OdkNL0EimQ9IQgtyfj4wuug5C
-    When and steps edit too 
+    When and steps edit too
 
   Scenario: fIueqLtVKcRuxNwAVilAENSIY1e4n2
     Given aHOgcA4kagdZhihJDr8TC06
