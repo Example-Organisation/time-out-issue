@@ -88,6 +88,7 @@ Feature: lpWCs5kbkwnv8hNCcFKxCIr6
     And DJ4NGXKAGI3KqOb6VvPhXnW
     And UrYrJIceyJJeohZkSLwmYB5Qe
 
+  @QU8-2 @OPEN
   Scenario: hkrinhblUKr88j5asOfNmstkeaiC2m9Y
     Given YP0IfaJtPBkhiSRO1oCslK77W
     And kq4nUUA0yxXuetRAlypuc
