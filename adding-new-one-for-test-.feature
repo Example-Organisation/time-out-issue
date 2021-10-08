@@ -27,6 +27,7 @@ Feature: adding new one for test lala
     Given 8X1HpgSrg9ILGd56CseF30qOqxerUG
     When this is a big change
     And StEdNVQeGz8x0WOjKWBEcS9d
+    Then update this one
 
   @uix3alyTIgK4jrVAb4NC85WmT @P52xFHvzGyr0oZLU3HzDCfqN @QjBzWwhlzXrmHeyM4U5r8GiOFaAN8qE59NE0NP @VDO7iNruArlGlA6jjnW8XHF @Fnq6qRJ6URDhsCCWz5ZpbULBtcJWW
   Scenario: M076uZFMshqLojktpVNfACI4js
