@@ -3,21 +3,6 @@ Feature: Updating name
 
   Updateing desciption
 
-  Scenario: fIueqLtVKcRuxNwAVilAENSIY1e4n2
-    Given aHOgcA4kagdZhihJDr8TC06
-    And l67Qih8TaWYLzfLHhBfv3uINM
-    And 0sxbWLQLa6kGX4REYpWnky
-    And VAIVg1bF8WXmkW9HShxkbCy
-    And PKFFYgYXu8Z3ZaxisgVBe1uaz
-    When f9h4tL2TJiGJwxVMd3tnUK95y
-    And cQXgWi6j7Qgs6QYU5zynCtUNb8qWz
-    And yLwVEzrS58sbuiGrvuMfSXD2wpO
-    And Rj7QolF8fcaMUgh7tddzSw2tBCz
-    And PtfUOsYg8VVXHJgeOZcIcj0kBpH
-    Then AncyLoUvzVaDyXtlkciZ0WU1L
-    And wbTslEqBRNcZ1dxhyiNJa0HydrW
-    And f58pE0ZXI4AMEubYeZo4y30r8gHub
-
   Scenario: ZdUp5hvaMHTEMW0yBeeKpmfg
     Given e2f9Vat3Hp62E8ujjFvdrG7yxtd2F
     And cVqY4gwqWwzPjhvmS5QON1
@@ -164,7 +149,6 @@ Feature: Updating name
     And XFZIaF9aGF9pMeGtvLOUx
     And StEdNVQeGz8x0WOjKWBEcS9d
 
-  @ORPHAN
   Scenario: Copy of fIueqLtVKcRuxNwAVilAENSIY1e4n2
     Given e2f9Vat3Hp62E8ujjFvdrG7yxtd2F
     And cVqY4gwqWwzPjhvmS5QON1
